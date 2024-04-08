@@ -1,8 +1,6 @@
-# ECUstem.github.io
-
 <!DOCTYPE html>
 <html>
-<img src="cupolabanner (1).png" alt="Cupola Photo as Banner" style="max-width: 1000px; height: auto;">
+<img src="ATFS-Both-logo.png" alt="atfs logo" style="max-width: 1000px; height: auto;">
 <title>Museum Study Pre-Tests</title>
 <link rel="stylesheet" href="css/float.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
